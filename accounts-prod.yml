@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to sbBAnk accounts related local APIs-production "
+  message: "Welcome to sbBAnk accounts related local APIs for production "
   contactDetails:
     name: "Selina Bhattarai -Owner"
     email: "selina.bhattarai@gmail.com"
